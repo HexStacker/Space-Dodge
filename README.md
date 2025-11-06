@@ -27,3 +27,5 @@ The goal is to dodge falling stars as long as possible — test your reflexes an
    ```bash
    git clone https://github.com/HexStacker-MH/Space-Dodge.git
    cd Space-Dodge
+   pip -i requirement.txt
+   python3 main.py
